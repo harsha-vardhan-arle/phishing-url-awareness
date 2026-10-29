@@ -165,8 +165,10 @@ The project provides practical experience with string handling, regular expressi
 
 ## 14. Author Information
 
-**Author:** HARSHA VARDHAN ARLE 
+**Author:** HARSHA VARDHAN ARLE
+
 **Batch/Course:** Ewb AI POWERED CYBERSECURITY INTERNSHIP
+
 **Project:** EWB Phishing URL Awareness Checker  
 **Programming Language:** Python  
 **Project Type:** Cybersecurity Awareness Mini-Project
